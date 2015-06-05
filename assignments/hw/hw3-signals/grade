@@ -1,10 +1,16 @@
-100/ 100
+95/ 100
 Last update Fri May 29 21:52:11 2015 -0700
 
+  -5: memory leak found in valgrind because of indexing error
+
+
 cd PATH: /20
-     (The prompt must change correctly for all of the cases below for full
-     credit, otherwise -5)
-    [/10] Change to a directory specified using an absolute path.
+     (The prompt must change correctly for all of the cases for full credit)
+    [0/5] Change to a directory specified using an absolute path.
 
 
+extra credit 1: /30
+    [0/10] Catching ^Z and pausing
+    [0/10] fg
+    [0/10] bg
 
